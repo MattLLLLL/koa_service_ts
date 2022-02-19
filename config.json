@@ -1,0 +1,12 @@
+{
+    "setting": {
+        "database": "",
+        "username": "",
+        "password": ""
+    },
+    "connect": {
+        "host": "localhost",
+        "dialect": "mariadb"
+    },
+    "SECRET": ""
+}
